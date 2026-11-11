@@ -5,7 +5,7 @@ This application is designed to help administrators manage stock data efficientl
 
 ---
 
-## 🚀 Features
+ Features
 
 - Session-based admin authentication
 - Secure login & logout system
@@ -15,7 +15,7 @@ This application is designed to help administrators manage stock data efficientl
 
 ---
 
-## 🛠️ Tech Stack
+ Tech Stack
 
 - PHP (Native)
 - MySQL
@@ -26,13 +26,13 @@ This application is designed to help administrators manage stock data efficientl
 
 ---
 
-## 📷 Screenshots
+ Screenshots
 
 (Add your screenshots here)
 
 ---
 
-## ⚙️ How to Run This Project
+ How to Run This Project
 
 1. Clone this repository
 2. Move project folder to `htdocs` (XAMPP)
