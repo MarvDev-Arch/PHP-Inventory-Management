@@ -42,7 +42,4 @@ This application is designed to help administrators manage stock data efficientl
 
 ---
 
-## 👨‍💻 Author
 
-Indris Alpasela  
-Informatics Student | Aspiring Frontend Developer
